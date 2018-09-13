@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="session" type="JSON" />
+      <mapping ext="jsm" type="JavaScript" />
+      <mapping ext="xcu" type="XML" />
+      <mapping ext="rdf" type="XML" />
+      <mapping ext="wnw" type="XML" />
+      <mapping ext="xmind" type="XML" />
+      <mapping ext="vssettings" type="XML" />
+      <mapping ext="config" type="XML" />
+    </extensionMap>
+  </component>
+</application>
+
