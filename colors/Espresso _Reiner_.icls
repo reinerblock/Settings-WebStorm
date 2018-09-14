@@ -1763,7 +1763,7 @@
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="59c251" />
       </value>
     </option>
     <option name="XML_COMMENT">
@@ -1788,7 +1788,9 @@
       </value>
     </option>
     <option name="XML_TAG_DATA">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="54eeff" />
+      </value>
     </option>
     <option name="XML_TAG_NAME">
       <value>

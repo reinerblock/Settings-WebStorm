@@ -1,0 +1,205 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="FindSettings">
+    <option name="SEARCH_OVERLOADED_METHODS" value="false" />
+    <option name="SEARCH_IN_LIBRARIES" value="false" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
+    <option name="FIND_DIRECTION" value="forward" />
+    <option name="FIND_ORIGIN" value="from_cursor" />
+    <option name="FIND_SCOPE" value="global" />
+    <option name="FIND_CUSTOM_SCOPE" />
+    <option name="CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="PRESERVE_CASE_REPLACE" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="COMMENTS_ONLY" value="false" />
+    <option name="STRING_LITERALS_ONLY" value="false" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
+    <option name="WITH_SUBDIRECTORIES" value="true" />
+    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" />
+    <option name="RECENT_FIND_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="&gt;dumm" />
+          <item index="1" class="java.lang.String" itemvalue="&gt;leichtsinni" />
+          <item index="2" class="java.lang.String" itemvalue="&gt;warmh" />
+          <item index="3" class="java.lang.String" itemvalue="&gt;mitf" />
+          <item index="4" class="java.lang.String" itemvalue="&gt;mitgef" />
+          <item index="5" class="java.lang.String" itemvalue="&gt;unmenschlich" />
+          <item index="6" class="java.lang.String" itemvalue="&gt;ersteh" />
+          <item index="7" class="java.lang.String" itemvalue="O:\Visual Studio 2012" />
+          <item index="8" class="java.lang.String" itemvalue="D:\Daten\Entwicklung" />
+          <item index="9" class="java.lang.String" itemvalue="&gt;schla" />
+          <item index="10" class="java.lang.String" itemvalue="kais" />
+          <item index="11" class="java.lang.String" itemvalue="kai" />
+          <item index="12" class="java.lang.String" itemvalue="verbohrt" />
+          <item index="13" class="java.lang.String" itemvalue="effizienz" />
+          <item index="14" class="java.lang.String" itemvalue="tüchtig" />
+          <item index="15" class="java.lang.String" itemvalue="keenness" />
+          <item index="16" class="java.lang.String" itemvalue="dullness" />
+          <item index="17" class="java.lang.String" itemvalue="Leidenschaftlichkeit" />
+          <item index="18" class="java.lang.String" itemvalue="pessimism" />
+          <item index="19" class="java.lang.String" itemvalue="Negativität" />
+          <item index="20" class="java.lang.String" itemvalue="1815" />
+          <item index="21" class="java.lang.String" itemvalue="eu" />
+          <item index="22" class="java.lang.String" itemvalue="eupho" />
+          <item index="23" class="java.lang.String" itemvalue="antonym" />
+          <item index="24" class="java.lang.String" itemvalue="synonym" />
+          <item index="25" class="java.lang.String" itemvalue=".*anonym.*syno" />
+          <item index="26" class="java.lang.String" itemvalue="&lt;name&gt;" />
+          <item index="27" class="java.lang.String" itemvalue="charac" />
+          <item index="28" class="java.lang.String" itemvalue="weiblich" />
+          <item index="29" class="java.lang.String" itemvalue="glücklich" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_REPLACE_STRINGS">
+      <value>
+        <list size="7">
+          <item index="0" class="java.lang.String" itemvalue="D:\Entwicklung\Settings\Visual Studio\Visual Studio 2012" />
+          <item index="1" class="java.lang.String" itemvalue="D:\Entwicklung" />
+          <item index="2" class="java.lang.String" itemvalue="Verbohrtheit" />
+          <item index="3" class="java.lang.String" itemvalue="synonym" />
+          <item index="4" class="java.lang.String" itemvalue="synonym4706" />
+          <item index="5" class="java.lang.String" itemvalue="antonym" />
+          <item index="6" class="java.lang.String" itemvalue="female" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_DIR_STRINGS">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="RECENT_FILE_MASKS">
+      <value>
+        <list size="9">
+          <item index="0" class="java.lang.String" itemvalue="*.properties" />
+          <item index="1" class="java.lang.String" itemvalue="*.html" />
+          <item index="2" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="3" class="java.lang.String" itemvalue="*.xml" />
+          <item index="4" class="java.lang.String" itemvalue="*.java" />
+          <item index="5" class="java.lang.String" itemvalue="*.js" />
+          <item index="6" class="java.lang.String" itemvalue="*.as" />
+          <item index="7" class="java.lang.String" itemvalue="*.css" />
+          <item index="8" class="java.lang.String" itemvalue="*.mxml" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="true" url="http://majestix:8888">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <customStates>
+        <entry state="IN_PROGRESS" name="In Progress" />
+        <entry state="RESOLVED" name="Fixed" />
+      </customStates>
+      <option name="defaultSearch" value="for: me sort by: updated #Unresolved" />
+      <password>dfe2dfc5dfd8dfc4dfcfdfd8df84df84df9b</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>Reiner</username>
+    </YouTrack>
+  </component>
+  <component name="UsageViewSettings">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl">
+    <enableFiles value="true" />
+    <enableFolders value="true" />
+    <filesTool value="C:\Program Files\Devart\Code Compare\CodeCompareGui.exe" newValue="C:\Program Files\Devart\Code Compare\CodeCompareGui.exe" />
+    <foldersTool value="C:\Program Files\Devart\Code Compare\CodeCompareGui.exe" newValue="C:\Program Files\Devart\Code Compare\CodeCompareGui.exe" />
+  </component>
+</application>

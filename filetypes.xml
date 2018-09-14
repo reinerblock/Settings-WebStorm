@@ -5,12 +5,12 @@
     <extensionMap>
       <mapping ext="session" type="JSON" />
       <mapping ext="jsm" type="JavaScript" />
-      <mapping ext="xcu" type="XML" />
+      <mapping ext="config" type="XML" />
+      <mapping ext="vssettings" type="XML" />
       <mapping ext="rdf" type="XML" />
       <mapping ext="wnw" type="XML" />
       <mapping ext="xmind" type="XML" />
-      <mapping ext="vssettings" type="XML" />
-      <mapping ext="config" type="XML" />
+      <mapping ext="xcu" type="XML" />
     </extensionMap>
   </component>
 </application>
