@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
+    <notification groupId="Browser Connection" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
-    <notification groupId="Git Minor Notifications" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
     <notification groupId="Node.js Boilerplate Project Generator" displayType="STICKY_BALLOON" />
-    <notification groupId="Web Deployment" />
-    <notification groupId="Browser Connection" />
+    <notification groupId="Node.js Project Detector" />
+    <notification groupId="Task Group" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
     <notification groupId="update.available.group" displayType="STICKY_BALLOON" />
-    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
     <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Minor Notifications" />
-    <notification groupId="Node.js Project Detector" />
-    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
-    <notification groupId="Task Group" />
-    <toolWindow group="Git Messages" />
-    <toolWindow group="FindInPath" />
+    <notification groupId="Web Deployment" />
   </component>
 </application>
-
