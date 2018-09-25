@@ -1,3 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<application />
-
+<application>
+  <component name="GithubAccounts">
+    <account id="e766b5ab-31b4-4014-bdaa-691a4264f0f9" name="reiner.block@creative-and-gifted.com">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
